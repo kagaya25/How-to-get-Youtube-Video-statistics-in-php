@@ -1,0 +1,26 @@
+{
+    "etag": "Vj5DmLdpQaQDjITZb1T09KRTcRs",
+    "eventId": null,
+    "kind": "youtube#videoListResponse",
+    "nextPageToken": null,
+    "prevPageToken": null,
+    "visitorId": null,
+    "items": [
+        {
+            "etag": "ZHwPJEeQMkER_PJVBeTAiUbqZeU",
+            "id": "YwNlVeReXXc",
+            "kind": "youtube#video",
+            "statistics": {
+                "commentCount": "0",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "likeCount": "6",
+                "viewCount": "1573"
+            }
+        }
+    ],
+    "pageInfo": {
+        "resultsPerPage": 1,
+        "totalResults": 1
+    }
+}
